@@ -1,6 +1,6 @@
-// go_snitcher Copyright © 2019 Chris Wojno. All rights reserved.
+// go_snitch Copyright © 2019 Chris Wojno. All rights reserved.
 
-package snitcher
+package go_snitch
 
 import (
 	reopen "github.com/wojnosystems/go_reopen"
